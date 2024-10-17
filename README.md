@@ -1,3 +1,3 @@
 # repo1
 its repo 1
-which dont have an commits
+which dont have any commits
